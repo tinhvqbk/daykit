@@ -1,0 +1,10 @@
+{
+    "indent": 2,
+    "remove": [
+        "devDependencies",
+        "peerDependencies",
+        "engines",
+        "scripts",
+        "dependencies"
+    ]
+}
